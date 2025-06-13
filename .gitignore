@@ -1,0 +1,4 @@
+# .gitignore
+.nvim.lua
+undo
+lazy-lock.json
